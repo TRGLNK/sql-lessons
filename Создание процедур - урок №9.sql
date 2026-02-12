@@ -95,3 +95,5 @@ end
 declare @concated nvarchar(50)
 exec CreateString 42, '^', @concated output
 print @concated
+
+/*привет*/
